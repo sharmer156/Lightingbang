@@ -1,0 +1,20 @@
+
+1.进入你的GitHub发起Pull request
+这里写图片描述
+
+
+2.选择compare across forks
+这里写图片描述
+
+
+3.反向操作。base fork改为自己的，head fork改为原作者的
+4.点击 create pull request
+这里写图片描述
+
+
+5. 添加comment
+这里写图片描述
+
+
+6.点击create pull request
+7.点击Merge pull request
